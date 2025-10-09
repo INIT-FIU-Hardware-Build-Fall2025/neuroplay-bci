@@ -7,7 +7,7 @@ Control a simple endless-runner game using **focus**, **relaxation**, and **blin
 - Focus → speed up
 - Relax → slow down
 - Blink → jump
-- Calibration screen + basic smoothing (EMA + blink debounce)
+- Calibration screen + basic smoothing (EMA + blink debounce )
 
 ## 🧱 Stack
 - **Firmware:** Arduino (Bluetooth/Serial bridge)
